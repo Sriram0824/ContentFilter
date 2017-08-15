@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>Securly Login Page</title>
+    <title>Sriram Manchiraju Login Page</title>
 
     <!-- Bootstrap core CSS -->
     <link href="dist/css/bootstrap.min.css" rel="stylesheet">
@@ -35,7 +35,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="Login.php">Securly</a>
+          <a class="navbar-brand" href="Login.php">Sriram Manchiraju</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -60,7 +60,7 @@
 
     <footer class="footer">
       <div class="container">
-        <p class="text-muted">© Copyright Securly Inc, 2017</p>
+        <p class="text-muted">© Copyright Sriram Manchiraju Inc, 2017</p>
       </div>
     </footer>
 
